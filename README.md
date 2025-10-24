@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Aplicacion creada con React
+
+npx create-react-app ecomarket_JhoanCalderon  
+cd ecomarket_JhoanCalderon
+npm install
+npm install @supabase/supabase-js
+
+### Conexion a supabase por medio del archivo supabaseClient.js
